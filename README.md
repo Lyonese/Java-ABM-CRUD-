@@ -23,7 +23,7 @@ This project provides a console-based application that enables users to perform 
 - ✅ Validates data existence before insertion to avoid duplicates.
 - 🗄️ Uses PostgreSQL as backend with flexible schema.
 - 🛠️ Employs Hibernate ORM to map Java classes to database tables.
-- 📝 Handles text-based fields with spaces and custom formats (e.g., "20 horas" for workload).
+- 📝 Handles text-based fields with spaces and custom formats.
 
 ## 🛠️ Technologies Used
 
