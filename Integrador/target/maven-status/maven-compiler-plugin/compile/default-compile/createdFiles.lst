@@ -1,0 +1,14 @@
+Persistencias\exceptions\IllegalOrphanException.class
+Integrador\Controladora.class
+Clases\Docente.class
+Clases\Asignatura.class
+Persistencias\AsignaturaJpaController.class
+Persistencias\exceptions\PreexistingEntityException.class
+Integrador\Integrador.class
+Persistencias\DocenteJpaController.class
+Clases\Instituto.class
+Persistencias\ControladoraPersistencia.class
+Persistencias\exceptions\NonexistentEntityException.class
+Clases\CargoDocente.class
+Persistencias\CargoDocenteJpaController.class
+Persistencias\InstitutoJpaController.class
